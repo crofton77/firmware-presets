@@ -1,0 +1,17 @@
+$ TITLE: Crofton77's DJI OSD
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: defaults, reset, OSD
+#$ AUTHOR: Betaflight
+#$ DESCRIPTION: Sets the OSD display options
+
+set osd_vbat_pos = 2496 #SAFE
+set osd_link_quality_pos = 2112 #SAFE
+set osd_throttle_pos = 2080 #SAFE
+set osd_current_pos = 2304 #SAFE
+set osd_mah_drawn_pos = 2273 #SAFE
+set osd_craft_name_pos = 2048 #SAFE
+set osd_avg_cell_voltage_pos = 2464 #SAFE
+set osd_disarmed_pos = 2474 #SAFE
+set osd_flip_arrow_pos = 2445 #SAFE
