@@ -832,6 +832,26 @@
       ]
     },
     {
+      "fullPath": "presets/4.3/osd/my_dji_osd.txt",
+      "hash": "b3584ae5900bdfaacded0f68f7ec732612aca5cd123b0004fd58c58483880374",
+      "options": [],
+      "title": "Crofton77's DJI OSD",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "OSD"
+      ],
+      "author": "Betaflight",
+      "description": [
+        "Sets the OSD display options"
+      ]
+    },
+    {
       "fullPath": "presets/4.3/other/blackbox_disable.txt",
       "hash": "71fc4b4cc44366fbbd91ad1aaf882cddd103fae91c4230988a5ebbb67b6bac5d",
       "options": [
