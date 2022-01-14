@@ -4,7 +4,7 @@
 #$ STATUS: OFFICIAL
 #$ KEYWORDS: mode, modes, aux, switch
 #$ AUTHOR: Betaflight
-#$ DESCRIPTION: Resets modes and adjustment ranges to 4.3 defaults
+#$ DESCRIPTION: Sets Crofton77's modes
 
 # aux switch settings
 aux 0 0 0 1700 2100 0 0
