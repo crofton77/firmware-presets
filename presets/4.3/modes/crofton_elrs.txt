@@ -3,7 +3,7 @@
 #$ CATEGORY: MODES
 #$ STATUS: OFFICIAL
 #$ KEYWORDS: mode, modes, aux, switch
-#$ AUTHOR: Betaflight
+#$ AUTHOR: Crofton77
 #$ DESCRIPTION: Sets Crofton77's modes
 
 # aux switch settings

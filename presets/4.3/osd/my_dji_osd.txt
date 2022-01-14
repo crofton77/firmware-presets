@@ -2,8 +2,8 @@
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OSD
 #$ STATUS: OFFICIAL
-#$ KEYWORDS: defaults, reset, OSD
-#$ AUTHOR: Betaflight
+#$ KEYWORDS: defaults, OSD
+#$ AUTHOR: Crofton77
 #$ DESCRIPTION: Sets the OSD display options
 
 set osd_vbat_pos = 2496 #SAFE
